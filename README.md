@@ -12,4 +12,6 @@ In time, it is hoped that the list here can be expanded and will become
 a handy reference. 
 
 If you have queries to share, please let me know a) which database, b) what
-the script does, and c) if there are any license restrictions.
+the script does, and c) if there are any license restrictions. I am attempting
+to attribute original authors, so if I miss you on an entry or you want credit,
+please contact me.
